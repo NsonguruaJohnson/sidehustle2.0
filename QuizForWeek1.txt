@@ -1,0 +1,6 @@
+What is the difference between cookie and session variables
+
+1. Cookie variables are stored at the client side(User's browser) while session variables are stored in the server.
+
+2. The data stored in cookies will stay alive(for the set time) as they are stored on your local machine so the web browser can access them every time you log in to a website,
+while the data stored in a session variable is destroyed when the session ends(browser is closed or one logs out).
